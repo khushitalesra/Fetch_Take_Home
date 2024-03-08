@@ -9,6 +9,6 @@ The File consists of following functions:
 3. items_show
    - This function is used to display the items grouped based on the list_id.
    - It also sorts the items based on the name.
-   -  It calls the function sort_num so that items are orted correctly based on the numbers in the file names.
+   -  It calls the function sort_num so that items are sorted correctly based on the numbers in the file names.
   
   
